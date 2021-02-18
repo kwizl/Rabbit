@@ -1,0 +1,16 @@
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/Send
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/Send.deps.json
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.json
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.dev.json
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/Send.dll
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/Send.pdb
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/mato/ASP/Rabbit/Send/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.csprojAssemblyReference.cache
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfoInputs.cache
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfo.cs
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.csproj.CoreCompileInputs.cache
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.csproj.CopyComplete
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.dll
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.pdb
+/home/mato/ASP/Rabbit/Send/obj/Debug/netcoreapp3.1/Send.genruntimeconfig.cache

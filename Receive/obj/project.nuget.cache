@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PoLLVoG/CVPekNDLUV3q5UzLy6TXjZlUVh1+MAycp/89I5pdcR7GrkjI0VlprtpaLiQ2mHlP539AwzJIR5UMqQ==",
+  "success": true,
+  "projectFilePath": "/home/mato/ASP/Rabbit/Receive/Receive.csproj",
+  "expectedPackageFiles": [
+    "/home/mato/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/mato/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/mato/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
