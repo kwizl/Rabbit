@@ -1,0 +1,16 @@
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.csprojAssemblyReference.cache
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.AssemblyInfoInputs.cache
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.AssemblyInfo.cs
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.csproj.CoreCompileInputs.cache
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/Worker
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/Worker.deps.json
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/Worker.runtimeconfig.json
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/Worker.runtimeconfig.dev.json
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/Worker.dll
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/Worker.pdb
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/mato/ASP/Rabbit/Worker/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.csproj.CopyComplete
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.dll
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.pdb
+/home/mato/ASP/Rabbit/Worker/obj/Debug/netcoreapp3.1/Worker.genruntimeconfig.cache

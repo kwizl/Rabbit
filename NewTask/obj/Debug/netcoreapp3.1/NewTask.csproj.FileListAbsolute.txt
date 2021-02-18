@@ -1,0 +1,16 @@
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/NewTask
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/NewTask.deps.json
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/NewTask.runtimeconfig.json
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/NewTask.runtimeconfig.dev.json
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/NewTask.dll
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/NewTask.pdb
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/mato/ASP/Rabbit/NewTask/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.csprojAssemblyReference.cache
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.AssemblyInfoInputs.cache
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.AssemblyInfo.cs
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.csproj.CoreCompileInputs.cache
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.csproj.CopyComplete
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.dll
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.pdb
+/home/mato/ASP/Rabbit/NewTask/obj/Debug/netcoreapp3.1/NewTask.genruntimeconfig.cache
