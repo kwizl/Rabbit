@@ -1,0 +1,16 @@
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/EmitLog
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/EmitLog.deps.json
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/EmitLog.runtimeconfig.json
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/EmitLog.runtimeconfig.dev.json
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/EmitLog.dll
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/EmitLog.pdb
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/mato/ASP/Rabbit/EmitLog/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.csprojAssemblyReference.cache
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.AssemblyInfoInputs.cache
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.AssemblyInfo.cs
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.csproj.CoreCompileInputs.cache
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.csproj.CopyComplete
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.dll
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.pdb
+/home/mato/ASP/Rabbit/EmitLog/obj/Debug/netcoreapp3.1/EmitLog.genruntimeconfig.cache

@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mato/ASP/Rabbit/EmitLog/EmitLog.csproj": {}
+  },
+  "projects": {
+    "/home/mato/ASP/Rabbit/EmitLog/EmitLog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mato/ASP/Rabbit/EmitLog/EmitLog.csproj",
+        "projectName": "EmitLog",
+        "projectPath": "/home/mato/ASP/Rabbit/EmitLog/EmitLog.csproj",
+        "packagesPath": "/home/mato/.nuget/packages/",
+        "outputPath": "/home/mato/ASP/Rabbit/EmitLog/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

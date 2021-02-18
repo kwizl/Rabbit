@@ -1,0 +1,16 @@
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.csprojAssemblyReference.cache
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.AssemblyInfoInputs.cache
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.AssemblyInfo.cs
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.csproj.CoreCompileInputs.cache
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/ReceiveLogs
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/ReceiveLogs.deps.json
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/ReceiveLogs.runtimeconfig.json
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/ReceiveLogs.runtimeconfig.dev.json
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/ReceiveLogs.dll
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/ReceiveLogs.pdb
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/mato/ASP/Rabbit/ReceiveLogs/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.csproj.CopyComplete
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.dll
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.pdb
+/home/mato/ASP/Rabbit/ReceiveLogs/obj/Debug/netcoreapp3.1/ReceiveLogs.genruntimeconfig.cache
